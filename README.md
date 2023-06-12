@@ -1,7 +1,8 @@
 # **Introduction 🌟**
 
 Welcome to the Python Cheatsheet repository! This readme file serves as your quick reference guide to the essential Python programming concepts. Whether you're a beginner or an experienced developer, this cheatsheet will help you navigate Python with ease. 💪💻
-Contents 📖
+
+## **Contents 📖**
 
 * Data Types 📊🔢
 * Control Flow 🔄🔀
